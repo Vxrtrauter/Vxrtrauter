@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://github.com/Vxrtrauter/blog](https://github.com/Vxrtrauter/blog)
 
-- ⚡ Fun fact **I used to be a batch skid**
+- ⚡ Fun fact: **I used to be a batch skid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
