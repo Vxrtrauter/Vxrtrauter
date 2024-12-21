@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **I used to be a batch skid**
 
 <h3 align="left">Connect with me: </h3>
-<h2>Discord: @farmerriegel</h2>
+<h4>Discord: @farmerriegel</h4>
 <p align="left">
 </p>
 
