@@ -14,7 +14,7 @@
 </p>
 
 
-<H3>GitHub Stats::</H3>
+<H3>GitHub Stats:</H3>
 
 ![](https://raw.githubusercontent.com/Vxrtrauter/profile/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Vxrtrauter/profile/master/generated/languages.svg#gh-dark-mode-only)
