@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shayaa</h1>
-<h3 align="center">A passionate backend-developer from Switzerland</h3>
+<h3 align="center">A passionate developer from Switzerland</h3>
 
 - 🔭 I’m currently working on **PirateLauncher** with KeksNino
 
