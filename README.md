@@ -15,14 +15,14 @@
 </p>
 
 
-
+![](https://spotify-recently-played-readme.vercel.app/api?user=jq6qk1shwdxbe781eq5ig4d77)
 
 ![](https://raw.githubusercontent.com/Vxrtrauter/profile/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Vxrtrauter/profile/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <H3>Recently Played:</H3>
-![](https://spotify-recently-played-readme.vercel.app/api?user=jq6qk1shwdxbe781eq5ig4d77)
+
 
 
 
