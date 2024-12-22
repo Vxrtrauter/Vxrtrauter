@@ -21,6 +21,8 @@
 ![](https://raw.githubusercontent.com/Vxrtrauter/profile/master/generated/languages.svg#gh-dark-mode-only)
 
 
+<H3>Recently Played:</H3>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jq6qk1shwdxbe781eq5ig4d77)
 
 
 
