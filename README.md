@@ -22,7 +22,7 @@
 
 
 <H3>Recently Played:</H3>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jq6qk1shwdxbe781eq5ig4d77)
+[Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=jq6qk1shwdxbe781eq5ig4d77)
 
 
 
