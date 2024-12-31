@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shayaa</h1>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
-- 🔭 I’m currently working on **PirateLauncher** with KeksNino
+- 🔭 I’m currently working on **NullWare**
 
 - 🌱 I’m currently learning **Java Reverse Engineering**
 
