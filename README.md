@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **Java Reverse Engineering**
 
-- 📝 I regularly write articles on [https://github.com/Vxrtrauter/blog](https://github.com/Vxrtrauter/blog)
 
-- ⚡ Fun fact: **I used to be a batch skid**
+- ⚡ Fun fact: **I love Cybersecurity**
 
 <h4>Discord: @farmerriegel</h4>
 <p align="left">
