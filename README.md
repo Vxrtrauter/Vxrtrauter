@@ -1,5 +1,21 @@
+# Welcome to my profile.
 
-<h4>Discord: @farmerriegel</h4>
+You can view my projects in the **Repositories** tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact me via
+Discord: **@farmerriegel**
 
 
 
